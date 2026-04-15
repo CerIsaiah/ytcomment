@@ -1,4 +1,4 @@
-# ytcomment
+# CommentMarketer
 
 A bot to automatically comment, like, or dislike YouTube videos based on a search query.
 
